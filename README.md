@@ -32,6 +32,19 @@ I am a **Physical Design Engineer** specializing in **Top-Level Clock Design & T
 
 ---
 
+### 🔬 Research & Numerical Projects
+
+The public repositories below cover earlier physics research, numerical methods, and learning exercises. Each repository keeps its own model parameters and results.
+
+| Area | Projects |
+| --- | --- |
+| Localization & topology | [Stark localization and dissipation](https://github.com/hustZhangYu/StarkLocalizationDissipation), [quasiperiodic SSH model](https://github.com/hustZhangYu/SSHModelWithQuasiperiodicHopping), [unidirectional AA model](https://github.com/hustZhangYu/UnidirectionalAAmodel), [mosaic AA dynamics](https://github.com/hustZhangYu/MosaicAADynamics) |
+| Numerical methods | [Disordered-system statistics](https://github.com/hustZhangYu/StatisticsOfDisorderSystem), [high-precision non-Hermitian calculations](https://github.com/hustZhangYu/NonHermitianSystemHighPrecision), [many-body criticality](https://github.com/hustZhangYu/ManyBodyCritical) |
+| Learning & exploration | [Machine-learning experiments](https://github.com/hustZhangYu/MachineLearningNew), [exact-diagonalization exercises](https://github.com/hustZhangYu/ExerciseForED), [self-assembly simulations](https://github.com/hustZhangYu/SelfAssembly), [small experiments](https://github.com/hustZhangYu/ForFun) |
+| Research discussions | [Group-meeting material](https://github.com/hustZhangYu/Group-meeting) |
+
+---
+
 ### 📫 How to Reach Me
 * **Email:** zhangyudzz@gmail.com
 * **LinkedIn:** 
